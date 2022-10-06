@@ -21,6 +21,7 @@
 ## EXPERIMENT 04
 
 <img width="593" alt="EX 04" src="https://user-images.githubusercontent.com/112739680/194224401-709fb77f-ecf2-40c5-8f72-a1b96c2a52bd.png">
+
 ![EX 4A](https://user-images.githubusercontent.com/112739680/194224436-86ef3f58-6a7f-48ef-9862-de59435e9ba4.png)
 ![EX 4B](https://user-images.githubusercontent.com/112739680/194224463-91e184d2-596b-4cee-944a-19d8606bd5c4.png)
 
