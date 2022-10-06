@@ -8,18 +8,18 @@
 ![EX 1D](https://user-images.githubusercontent.com/112739680/194223778-a9d4f84d-64e2-4307-b55e-c9f37a866a62.png)
 
 ## EXPERIMENT 02
-
+[QUERYLINK](https://github.com/Peranbu/Peranbu1./blob/main/EXPERIMENT%2002)
 ![EX 02](https://user-images.githubusercontent.com/112739680/194224078-f54f95a4-c711-4bc7-b642-ec9c7cf075e8.png)
 ![EX 2A](https://user-images.githubusercontent.com/112739680/194224098-4a5c61ab-3ffc-4687-9046-fa8ee7982e0c.png)
 ![EX 2B](https://user-images.githubusercontent.com/112739680/194224110-77af84a9-2bf7-48af-bb1a-4b2c598412f3.png)
 ![EX 2C](https://user-images.githubusercontent.com/112739680/194224117-1fcbef82-16ce-44b3-ab97-fefc52bfaba6.png)
 
 ## EXPERIMENT 03
-
+[QUERYLINK](https://github.com/Peranbu/Peranbu1./blob/main/EXPERIMENT%2003)
 ![EX 03](https://user-images.githubusercontent.com/112739680/194224195-ca7c8f55-f9dc-4b7f-b9ef-da55b59c0e45.png)
 
 ## EXPERIMENT 04
-
+[QUERYLINK](https://github.com/Peranbu/Peranbu1./blob/main/EXPERIMENT%2004)
 <img width="593" alt="EX 04" src="https://user-images.githubusercontent.com/112739680/194224401-709fb77f-ecf2-40c5-8f72-a1b96c2a52bd.png">
 
 ![EX 4A](https://user-images.githubusercontent.com/112739680/194224436-86ef3f58-6a7f-48ef-9862-de59435e9ba4.png)
