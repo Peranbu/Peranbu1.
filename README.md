@@ -1,6 +1,6 @@
 ## DBMS PROGRAMS
 ## EXPERIMENT 01
-
+[QUERYLINK](https://github.com/Peranbu/Peranbu1./blob/main/EXPERIMENT%2001)
 ![EX 1](https://user-images.githubusercontent.com/112739680/194223670-f6252195-33d8-4fd1-b07a-0d2dd40abdd9.png)
 ![EX 1A](https://user-images.githubusercontent.com/112739680/194223707-658ee3d7-63dc-4fcc-bcb0-6be10da3c8a5.png)
 ![EX 1B](https://user-images.githubusercontent.com/112739680/194223735-19240604-3007-4360-922c-d78531e0cb40.png)
