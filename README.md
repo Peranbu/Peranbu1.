@@ -126,6 +126,3 @@
 ![EX 25A](https://user-images.githubusercontent.com/112739680/194498872-80f7d47f-d05a-4357-bc94-beef73de618f.png)
 ![EX 25B](https://user-images.githubusercontent.com/112739680/194498887-5af20064-68ec-40f2-9aeb-7ed028bfa8dc.png)
 ![EX 25C](https://user-images.githubusercontent.com/112739680/194498921-ac4e418a-5770-44d6-b073-55407fe2607f.png)
-
-
-
