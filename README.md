@@ -90,7 +90,42 @@
 ![EX 17](https://user-images.githubusercontent.com/112739680/194226240-79be78ed-8c28-41f5-b398-8ebfe758a530.png)
 ![EX 17A](https://user-images.githubusercontent.com/112739680/194226262-950dff2b-a368-4867-a4e2-75048d418703.png)
 
-## EXPERIMENT 18)
+## EXPERIMENT 18
 [QUERYLINK](https://github.com/Peranbu/Peranbu1./blob/main/EXPERIMENT%2018)
 ![EX 18](https://user-images.githubusercontent.com/112739680/194226307-7a5da40c-3150-49be-99c2-84959faaba22.png)
+
+## EXPERIMENT 19
+[QUERYLINK](https://github.com/Peranbu/Peranbu1./blob/main/EXPERIMENT%2019)
+![EX 19](https://user-images.githubusercontent.com/112739680/194497839-42ab0c7b-1868-40f0-8fd3-31e7dfa386c3.png)
+
+## EXPERIMENT 20
+[QUERYLINK](https://github.com/Peranbu/Peranbu1./blob/main/EXPERIMENT%2020)
+![EX 20](https://user-images.githubusercontent.com/112739680/194497989-f459760f-8908-4a01-8896-c0fb5bd8c00f.png)
+
+## EXPERIMENT 21
+[QUERYLINK](https://github.com/Peranbu/Peranbu1./blob/main/EXPERIMENT%2021)
+![EX 21](https://user-images.githubusercontent.com/112739680/194498077-eb756390-7a47-4fef-aed2-d61f1f242e15.png)
+![EX 21A](https://user-images.githubusercontent.com/112739680/194498362-3d2cb165-6ea4-4bc4-ae05-fb4d66acabde.png)
+![EX 21B](https://user-images.githubusercontent.com/112739680/194498439-fea4f967-8b04-422a-868f-be69624d1198.png)
+
+## EXPERIMENT 22
+[QUERYLINK](https://github.com/Peranbu/Peranbu1./blob/main/EXPERIMENT%2022)
+![EX 22](https://user-images.githubusercontent.com/112739680/194498525-cd526cab-3ff1-47bf-9846-34d01f41c66a.png)
+
+## EXPERIMENT 23
+[QUERYLINK](https://github.com/Peranbu/Peranbu1./blob/main/EXPERIMENT%2023)
+![EX 23](https://user-images.githubusercontent.com/112739680/194498632-dddd7c37-a25b-470f-bf60-fb65b94eeea4.png)
+
+## EXPERIMENT 24
+[QUERYLINK](https://github.com/Peranbu/Peranbu1./blob/main/EXPERIMENT%2024)
+![EX 24](https://user-images.githubusercontent.com/112739680/194498744-4fb4870b-6589-4301-9d49-5d8a77bf7104.png)
+
+## EXPERIMENT 25
+[QUERYLINK](https://github.com/Peranbu/Peranbu1./blob/main/EXPERIMENT%2025)
+![EX 25](https://user-images.githubusercontent.com/112739680/194498835-4f8c0eef-e1ee-4a55-97b8-438101b0907e.png)
+![EX 25A](https://user-images.githubusercontent.com/112739680/194498872-80f7d47f-d05a-4357-bc94-beef73de618f.png)
+![EX 25B](https://user-images.githubusercontent.com/112739680/194498887-5af20064-68ec-40f2-9aeb-7ed028bfa8dc.png)
+![EX 25C](https://user-images.githubusercontent.com/112739680/194498921-ac4e418a-5770-44d6-b073-55407fe2607f.png)
+
+
 
